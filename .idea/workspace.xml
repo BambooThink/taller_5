@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d17c456c-d61c-454f-801e-26e5dce86547" name="Changes" comment="">
+    <list default="true" id="d17c456c-d61c-454f-801e-26e5dce86547" name="Changes" comment="Ejercicios finalizados">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicio_ascensor/Ascensor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicio_ascensor/Programa_ascensor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicio_pendulo/Pendulo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicio_pendulo/Programa_pendulo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Pendulo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Pendulo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Pendulo.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -40,6 +45,28 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Kotlin.Programa_penduloKt">
+    <configuration name="Programa_ascensorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio_ascensor.Programa_ascensorKt" />
+      <module name="taller_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa_penduloKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio_pendulo.Programa_penduloKt" />
+      <module name="taller_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Programa_penduloKt" />
+        <item itemvalue="Kotlin.Programa_ascensorKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655144005664</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creación de la clase">
+      <created>1655145383347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655145383347</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +96,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creación de la clase" />
+    <MESSAGE value="Ejercicios finalizados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios finalizados" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package ejercicios
+package ejercicio_pendulo
 
 import kotlin.math.sqrt
 
@@ -30,5 +30,25 @@ class Pendulo {
         if (l == 0.0) return 0.0
         return 2 * Math.PI * sqrt(a / l)
     }
+}
 
+// Otra forma de crear clases en Kotlin
+
+data class Pendulo2 (
+    var l: Double = 0.0,
+    var a: Double = 0.0
+) {
+    // Modificadoras
+    fun setLongitud(l: Double) {
+        this.l = l
+    }
+    fun setAceleracion(a: Double) {
+        this.a = a
+    }
+
+    // Métodos
+    fun calcularPeriodoOscilacion(): Double {
+        if (l == 0.0) return 0.0
+        return 2 * Math.PI * sqrt(a / l)
+    }
 }
