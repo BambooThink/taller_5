@@ -1,10 +1,12 @@
 package ejercicio_ascensor
 
+import kotlin.math.absoluteValue
+
 fun main() {
     print("Ingrese la cantidad de pisos que tiene el edificio: ")
-    val cantidadPisos = readLine()!!.toInt()
+    val cantidadPisos = readLine()!!.toInt().absoluteValue
     print("Ingrese la cantidad de sotanos que tiene el edificio: ")
-    val cantidadSotanos = readLine()!!.toInt()
+    val cantidadSotanos = readLine()!!.toInt().absoluteValue
     print("Ingrese el piso actual del ascensor: ")
     val pisoActual = readLine()!!.toInt()
     val objetoAscensor = Ascensor(cantidadPisos, cantidadSotanos, pisoActual)

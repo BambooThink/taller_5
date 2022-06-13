@@ -42,6 +42,6 @@ data class Ascensor(
     }
 
     fun determinarTotalPisosIncluyendoSotanos(): Int {
-        return cantidadPisos + cantidadSotanos.absoluteValue
+        return cantidadPisos + cantidadSotanos
     }
 }

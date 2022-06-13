@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d17c456c-d61c-454f-801e-26e5dce86547" name="Changes" comment="Ejercicios finalizados">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicio_ascensor/Ascensor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicio_ascensor/Programa_ascensor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicio_pendulo/Pendulo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicio_pendulo/Programa_pendulo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Pendulo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicio_ascensor/Ascensor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicio_ascensor/Ascensor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicio_ascensor/Programa_ascensor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicio_ascensor/Programa_ascensor.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Programa_penduloKt">
+  <component name="RunManager" selected="Kotlin.Programa_ascensorKt">
     <configuration name="Programa_ascensorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio_ascensor.Programa_ascensorKt" />
       <module name="taller_5" />
@@ -62,8 +59,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Programa_penduloKt" />
         <item itemvalue="Kotlin.Programa_ascensorKt" />
+        <item itemvalue="Kotlin.Programa_penduloKt" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655145383347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ejercicios finalizados">
+      <created>1655152626653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655152626653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
